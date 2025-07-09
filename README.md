@@ -15,3 +15,6 @@
 2. Install the dependencies:
    ```bash
    pip install streamlit requests
+   Run the app:
+3.
+streamlit run app.py
